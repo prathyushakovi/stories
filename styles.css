@@ -1,0 +1,25 @@
+.jumbotron {
+	background-color:pink;
+	color: black;
+}
+h2{
+	color:black;
+	text-decoration: underline;
+	font-size: 40px;
+	font-weight:normal;
+}
+footer {
+	background-color: #661453;
+	color:white;
+}
+
+p {
+	font-size: 20px;
+}
+.nav-item {
+	color:white;
+}
+#moral {
+	font-style: italic;
+
+}
